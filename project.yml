@@ -1,0 +1,13 @@
+# Website card: read by the website at build time. Keep it short.
+slug: piet-interpreter-c
+section: books        # website section: books | pcb | phone | webcam | analyzer
+status: done          # active | paused | done
+tags: [c, piet, interpreter, esoteric-language]
+repo: "https://github.com/Saccharoze/piet-interpreter-c"
+image: docs/img/switch-test.png   # picture for the card, path inside the repo
+fr:
+  title: "Un interpréteur Piet en C"
+  summary: "Un interpréteur en C pur pour Piet, le langage dont les programmes sont des images : lecture PPM, blocs de couleur, les 17 commandes, avec des tests."
+en:
+  title: "A Piet interpreter in C"
+  summary: "An interpreter in plain C for Piet, the language whose programs are pictures: PPM reading, colour blocks, all 17 commands, with tests."
