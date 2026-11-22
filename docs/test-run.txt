@@ -1,0 +1,29 @@
+tests/run.sh
+ok    tests/build/arithmetic.ppm
+ok    tests/build/hello-off-32.ppm
+ok    tests/build/hello-plain-ppm.ppm
+ok    tests/build/hello-standard-palette.ppm
+ok    tests/build/hello.ppm
+ok    tests/build/input.ppm
+ok    tests/build/off-palette.ppm
+ok    tests/build/pointer.ppm
+ok    tests/build/stack.ppm
+ok    tests/build/switch.ppm
+ok    tests/build/white.ppm
+ok    tests/samples/99bottles.ppm
+ok    tests/samples/Piet_hello.ppm
+ok    tests/samples/Piet_hello_original.ppm
+ok    tests/samples/adder.ppm
+ok    tests/samples/alpha.ppm
+ok    tests/samples/cowsay.ppm
+ok    tests/samples/euclide.ppm
+ok    tests/samples/fact.ppm
+ok    tests/samples/hw2.ppm
+ok    tests/samples/hw3.ppm
+ok    tests/samples/hw4.ppm
+ok    tests/samples/mondrian.ppm
+ok    tests/samples/pi.ppm
+ok    tests/samples/pietquest.ppm
+ok    tests/samples/power.ppm
+ok    tests/samples/tetris.ppm
+27 passed, 0 failed
